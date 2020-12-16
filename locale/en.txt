@@ -1,0 +1,88 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Una institución para el regocijo intelectual, espiritual y personal de nuestros niños en crecimiento.
+
+### Title
+tour.name = Colegio Adventista de Asunción
+
+## Skin
+
+### Button
+Button_035679DB_0DF8_570E_4181_0AB2725432EE.label = CERRAR
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = INFORMACIÓN
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = UBICACIÓN
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = PERSPECTIVAS
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = REVISTA
+Button_33E0F47E_11C1_A20D_419F_BB809AD89259.label = CONTACT0
+Button_FAF42AFE_EEAC_A286_41E1_455B7B05093E.label = OCULTAR PUBLICIDAD
+
+### Multiline Text
+HTMLText_0FF01D6F_1D2B_3BE2_41BB_C30E6D4A517A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.37vh;font-family:'Oswald';"><B>Educación Adventista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-family:'Oswald Regular';"><B>Para mayor información sobre nuestras instituciones, cursos y aranceles, contactenos por medio de los enlaces abajo.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="http://cada.educacionadventista.com/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Oswald';"><B><U>cada.educacionadventista.com</U></B></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:recepcion.colegioadventista@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Oswald';"><B><U>recepcion.colegioadventista@gmail.com</U></B></SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Tel.: (021) 226 057</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Carandayty 440</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Asunción, Paraguay</B></SPAN></SPAN></DIV></div>
+HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>PLANOS</B></SPAN></SPAN></DIV></div>
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>UBICACIÓN</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>PANORAMAS</B></SPAN></SPAN></DIV></div>
+HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5.37vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.26vh;font-family:'Oswald';"><B>Colegio Adventista de Asunción</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-family:'Oswald Regular';">Una institución para el regocijo intelectual, espiritual y personal de nuestros niños en crecimiento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">La EA considera el proceso educativo de forma integral y promueve la interacción entre la teoría y la práctica, el pensar y el hacer, la razón y la emoción, lo individual y lo colectivo, la causa y el efecto; entiende que tanto los educadores como los estudiantes pueden enseñar y aprender.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">La propuesta pedagógica de la red EA es respetuosa de las políticas y los currículos educativos de cada país, con el objetivo fundamental de formar estudiantes reflexivos y creativos. Además, facilita la transformación del conocimiento en actitudes, mediante la resolución de los problemas cotidianos de los estudiantes. Nuestra pedagogía se basa en las premisas de una educación cristiana y en el compromiso de guiar todas las actividades didácticas hacia la calidad en el proceso de enseñanza-aprendizaje y la integración natural de la fe y la enseñanza.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">Nuestro currículo promueve la excelencia académica e incluye todos los contenidos esenciales para la práctica de una ciudadanía responsable. Su objetivo es desarrollar equilibradamente la vida espiritual, intelectual, física, social, emocional y vocacional de los estudiantes.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7CCB7F65_6988_8246_41CD_37B6602DE2F9.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:21px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>  </B></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://yacyreta.evk.com.py" TARGET="_top" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B><U>Volver al Sitio</U></B></SPAN></A></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+map_D021BC9C_F1CC_DED3_41DF_BD35CA2B988A.label = Plano Primer Piso
+panorama_9DEA9E2D_88DD_DF83_41D4_2CF8D9518F72.label = Planta Baja - Calle
+panorama_D71C9C4E_F482_EC77_41C8_21DC8CCD1AAD.label = Planta Baja - Playground
+panorama_E5184154_E93E_1FC6_41E2_8257B4F8A2FE.label = 1er Piso - Laboratorio de Informática
+panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA.label = Planta Baja - Comedor - Acceso
+panorama_E8B9812A_E364_302D_41E2_DFDB9823113D.label = Planta Baja - Aula Preescolar
+panorama_E8C90C1B_E365_F7E2_41D7_18E9C82943A5.label = Planta Baja - Pasillo Aulas Esquina
+panorama_E8E42205_E364_33E7_41E6_A73F2DB39F27.label = Planta Baja - Dirección
+panorama_E8FADA72_E364_F022_41C2_C29F7A235EAF.label = Planta Baja - Acceso - Preescolar
+panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B.label = Planta Baja - Recepción
+panorama_E9C1D3F7_E46A_1D57_4197_60D58E87487C.label = 2do Piso - Auditorio Entrada
+panorama_E9C2B1AC_E46A_1DF9_41D2_1E8C48B2DC22.label = 2do Piso - Biblioteca - Segundo Nivel
+panorama_E9C4108D_E46A_3BBB_41E4_FCB0E78FC031.label = 2do Piso - Biblioteca
+panorama_E9C4F462_E46B_FB69_41EA_EBF76426CC46.label = 2do Piso - Acceso a Biblioteca
+panorama_E9C5B2DE_E46A_1F59_41E8_91B64D35D990.label = 2do Piso - Auditorio Punto 2
+panorama_E9C5C3B9_E46A_3DDB_41B2_81F19F4D0621.label = 2do Piso - Auditorio Punto 1
+panorama_E9C6E272_E46A_7F69_41D0_A0613D7F1112.label = 1er Piso - Aula 6
+panorama_EA80C6E4_E147_992C_41D3_588476BDC207.label = Planta Baja - Laboratorio de Simulación - Punto 1
+panorama_EA8920BB_E140_B91B_41E9_D14906604A6B.label = Planta Baja - Comedor - Sin Sillas
+panorama_EADC0494_E147_99EC_41E6_6E85636B3ABA.label = Planta Baja - Laboratorio de Simulación Punto 2
+panorama_EADC6654_E140_996D_41E8_8F536A929374.label = Planta Baja - Cancha Centro
+panorama_EADCE602_E147_B8E5_41E0_A3348388DA41.label = Planta Baja - Laboratorio de Simulación - Punto 3
+panorama_EADDA963_E141_EB2B_41DB_CD069D3B479A.label = Planta Baja - Acceso a Cancha
+panorama_EADDBD3C_E141_6B1D_41C2_3B8C0C9C91C2.label = Planta Baja - Cancha - Acceso a Laboratorio
+panorama_EAE2003C_E141_991C_41CF_920F278E9C7B.label = Planta Baja - Acceso - 1er Grado
+panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE.label = Planta Baja - Jardín
+panorama_ED4F5164_E141_7B2C_41CB_BAE8006AA571.label = Planta Baja - 1er Grado
+panorama_EF3E255F_E364_5063_41EA_23F03465E467.label = Planta Baja - Cancha 2
+panorama_EFE15D2B_E466_0AFF_41D4_0DCE456C6586.label = 1er Piso - Acceso a Aula 6
+panorama_F521389D_E4A4_30E7_419D_206A40017412.label = 1er Piso - Acceso a Laboratorio de Informática
+panorama_F5213C55_E4A4_D066_416D_85F4BFC80191.label = 1er Piso - Acceso a Aula 9
+panorama_F52171BD_E4A4_5027_41E5_9EE998F7E297.label = 2do Piso - Pasillo 1
+panorama_F5217E84_E4A4_50E6_41B1_B7D2D7D82D72.label = 1er Piso - Acceso a 5to Grado y Aula 11
+panorama_F5392FBD_E4A4_7027_41E3_AB0AD55108CB.label = 1er Piso - 6to Grado
+panorama_F6165FE8_E4A4_502E_41CE_D0E472165F33.label = 1er Piso - 5to Grado
+video_0AC8CE91_1CB3_CE52_41A3_B1EBC58551C6.label = MVI_1672_even_smaller_2
+video_3AB8D8D7_2D16_F0FD_41BD_704E76E595D4.label = MVI_1721_1
+video_3C35997B_2D0A_D1B5_41BC_B8E8C2EE3424.label = MVI_1721
+video_3D0FCD17_2D0E_F17D_41B8_2F1A149B5046.label = MVI_1723
+
+## Popup
+
+### Body
+htmlText_C872455D_E4E6_055B_4195_4480946DECFE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CAB6FC10_E4AE_0AA9_41DF_C64B8324337E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CABFA973_E4BA_0D68_41D2_3ED511317D81.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CAF7744F_E4AE_3AB8_41E2_E0AB3935C6F6.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CAFE3160_E4AA_FD69_41EB_D1D860FFCD96.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CAFED8A6_E4AA_0BE9_41E8_613CAADB976E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CB5F7EE7_E4AA_0777_41CF_BE76A5BB2BC6.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Action
+
+### URL
+LinkBehaviour_656D1C50_693D_AB29_41D5_3CD13D4E5AE9.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20gust%C3%B3%20el%20Paseo%20Digital%20del%20Colegio%20Adventista!
